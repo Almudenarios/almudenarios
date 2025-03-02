@@ -13,11 +13,9 @@ Over the course of my education there I have learnt to work using different lang
 I have good organizational skills and can work both under a cascading strategy or an agile work methodology such as SCRUM. 
 
 You can find me here: 
-[<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Almudenarios/almudenarios/blob/main/bannerGitDark.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/Almudenarios/almudenarios/blob/main/bannerGitLight.png">
- <img alt="mail logo" src="https://github.com/Almudenarios/almudenarios/blob/main/bannerItch.png">
-</picture>](mailto:almudena.sanchezencinas@outlook.es)
+
+[<img alt="mail logo" src="https://github.com/Almudenarios/almudenarios/blob/main/socials-mail.png">
+](mailto:almudena.sanchezencinas@outlook.es)
 
 
 <!--
