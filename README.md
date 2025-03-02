@@ -15,7 +15,8 @@ I have good organizational skills and can work both under a cascading strategy o
 You can find me here: 
 
 [<img alt="mail logo" src="https://github.com/Almudenarios/almudenarios/blob/main/socials-mail.png">
-](mailto:almudena.sanchezencinas@outlook.es)
+](mailto:almudena.sanchezencinas@outlook.es)   [<img alt="LinkedIn logo" src="https://github.com/Almudenarios/almudenarios/blob/main/socials-linkedin.png">
+](https://www.linkedin.com/in/almudena-s%C3%A1nchez-encinas-9b58b7290/) 
 
 
 <!--
