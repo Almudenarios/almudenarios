@@ -1,8 +1,23 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Almudenarios/almudenarios/blob/main/bannerGitDark.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Almudenarios/almudenarios/blob/main/bannerGitLight.png">
- <img alt="Almudena Sánchez Encinas written over a drawing of a resting dragon" src="YOUR-DEFAULT-IMAGE">
+ <img alt="Almudena Sánchez Encinas written over a drawing of a resting dragon" src="https://github.com/Almudenarios/almudenarios/blob/main/bannerItch.png">
 </picture>
+
+# Hello there, I am **Almu** 👋. 
+
+I am currently completing my Final Project before graduating from **King Juan Carlos University's degree on Videogame Design and Development**: a full Demo developed on Unity for a Cozy Game about STEM Disciplines ⚙🌱🧪💾
+
+Over the course of my education there I have learnt to work using different languages - **C++, C#, C, Java, Javascript, and Python** - within different programming paradigms out of which **Object Oriented Programming was prevalent**. I have learnt to work with both Relational and NoSQL Databases. 
+
+I have good organizational skills and can work both under a cascading strategy or an agile work methodology such as SCRUM. 
+
+You can find me here: 
+[<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Almudenarios/almudenarios/blob/main/bannerGitDark.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Almudenarios/almudenarios/blob/main/bannerGitLight.png">
+ <img alt="mail logo" src="https://github.com/Almudenarios/almudenarios/blob/main/bannerItch.png">
+</picture>](mailto:almudena.sanchezencinas@outlook.es)
 
 
 <!--
