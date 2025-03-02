@@ -1,4 +1,9 @@
-### Hello there! 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Almudenarios/almudenarios/blob/main/bannerGitDark.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Almudenarios/almudenarios/blob/main/bannerGitLight.png">
+ <img alt="Almudena Sánchez Encinas written over a drawing of a resting dragon" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
 
 <!--
 **Almudenarios/almudenarios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
